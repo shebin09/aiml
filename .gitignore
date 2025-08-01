@@ -5,3 +5,4 @@ pandas2/bios.csv
 pandas2/olympics-data.xlsx
 pandas2/noc_regions.csv
 pandas2/results.parquet
+assessment/assessment.ipynb
