@@ -8,3 +8,5 @@ pandas2/results.parquet
 assessment/assessment.ipynb
 dimensionality-reduction/mnist_train1.csv
 dimensionality reduction/mnist_train1.csv
+cross validation,grid search,random search/creditcard.csv
+generative_and_discriminative/mnist_train1.csv

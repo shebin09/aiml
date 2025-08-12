@@ -1,0 +1,399 @@
+,car name,weight
+0,chevrolet chevelle malibu,3504
+1,buick skylark 320,3693
+2,plymouth satellite,3436
+3,amc rebel sst,3433
+4,ford torino,3449
+5,ford galaxie 500,4341
+6,chevrolet impala,4354
+7,plymouth fury iii,4312
+8,pontiac catalina,4425
+9,amc ambassador dpl,3850
+10,dodge challenger se,3563
+11,plymouth 'cuda 340,3609
+12,chevrolet monte carlo,3761
+13,buick estate wagon (sw),3086
+14,toyota corona mark ii,2372
+15,plymouth duster,2833
+16,amc hornet,2774
+17,ford maverick,2587
+18,datsun pl510,2130
+19,volkswagen 1131 deluxe sedan,1835
+20,peugeot 504,2672
+21,audi 100 ls,2430
+22,saab 99e,2375
+23,bmw 2002,2234
+24,amc gremlin,2648
+25,ford f250,4615
+26,chevy c20,4376
+27,dodge d200,4382
+28,hi 1200d,4732
+29,datsun pl510,2130
+30,chevrolet vega 2300,2264
+31,toyota corona,2228
+32,ford pinto,2046
+33,amc gremlin,2634
+34,plymouth satellite custom,3439
+35,chevrolet chevelle malibu,3329
+36,ford torino 500,3302
+37,amc matador,3288
+38,chevrolet impala,4209
+39,pontiac catalina brougham,4464
+40,ford galaxie 500,4154
+41,plymouth fury iii,4096
+42,dodge monaco (sw),4955
+43,ford country squire (sw),4746
+44,pontiac safari (sw),5140
+45,amc hornet sportabout (sw),2962
+46,chevrolet vega (sw),2408
+47,pontiac firebird,3282
+48,ford mustang,3139
+49,mercury capri 2000,2220
+50,opel 1900,2123
+51,peugeot 304,2074
+52,fiat 124b,2065
+53,toyota corolla 1200,1773
+54,datsun 1200,1613
+55,volkswagen model 111,1834
+56,plymouth cricket,1955
+57,toyota corona hardtop,2278
+58,dodge colt hardtop,2126
+59,volkswagen type 3,2254
+60,chevrolet vega,2408
+61,ford pinto runabout,2226
+62,chevrolet impala,4274
+63,pontiac catalina,4385
+64,plymouth fury iii,4135
+65,ford galaxie 500,4129
+66,amc ambassador sst,3672
+67,mercury marquis,4633
+68,buick lesabre custom,4502
+69,oldsmobile delta 88 royale,4456
+70,chrysler newport royal,4422
+71,mazda rx2 coupe,2330
+72,amc matador (sw),3892
+73,chevrolet chevelle concours (sw),4098
+74,ford gran torino (sw),4294
+75,plymouth satellite custom (sw),4077
+76,volvo 145e (sw),2933
+77,volkswagen 411 (sw),2511
+78,peugeot 504 (sw),2979
+79,renault 12 (sw),2189
+80,ford pinto (sw),2395
+81,datsun 510 (sw),2288
+82,toyouta corona mark ii (sw),2506
+83,dodge colt (sw),2164
+84,toyota corolla 1600 (sw),2100
+85,buick century 350,4100
+86,amc matador,3672
+87,chevrolet malibu,3988
+88,ford gran torino,4042
+89,dodge coronet custom,3777
+90,mercury marquis brougham,4952
+91,chevrolet caprice classic,4464
+92,ford ltd,4363
+93,plymouth fury gran sedan,4237
+94,chrysler new yorker brougham,4735
+95,buick electra 225 custom,4951
+96,amc ambassador brougham,3821
+97,plymouth valiant,3121
+98,chevrolet nova custom,3278
+99,amc hornet,2945
+100,ford maverick,3021
+101,plymouth duster,2904
+102,volkswagen super beetle,1950
+103,chevrolet impala,4997
+104,ford country,4906
+105,plymouth custom suburb,4654
+106,oldsmobile vista cruiser,4499
+107,amc gremlin,2789
+108,toyota carina,2279
+109,chevrolet vega,2401
+110,datsun 610,2379
+111,maxda rx3,2124
+112,ford pinto,2310
+113,mercury capri v6,2472
+114,fiat 124 sport coupe,2265
+115,chevrolet monte carlo s,4082
+116,pontiac grand prix,4278
+117,fiat 128,1867
+118,opel manta,2158
+119,audi 100ls,2582
+120,volvo 144ea,2868
+121,dodge dart custom,3399
+122,saab 99le,2660
+123,toyota mark ii,2807
+124,oldsmobile omega,3664
+125,plymouth duster,3102
+126,ford maverick,2875
+127,amc hornet,2901
+128,chevrolet nova,3336
+129,datsun b210,1950
+130,ford pinto,2451
+131,toyota corolla 1200,1836
+132,chevrolet vega,2542
+133,chevrolet chevelle malibu classic,3781
+134,amc matador,3632
+135,plymouth satellite sebring,3613
+136,ford gran torino,4141
+137,buick century luxus (sw),4699
+138,dodge coronet custom (sw),4457
+139,ford gran torino (sw),4638
+140,amc matador (sw),4257
+141,audi fox,2219
+142,volkswagen dasher,1963
+143,opel manta,2300
+144,toyota corona,1649
+145,datsun 710,2003
+146,dodge colt,2125
+147,fiat 128,2108
+148,fiat 124 tc,2246
+149,honda civic,2489
+150,subaru,2391
+151,fiat x1.9,2000
+152,plymouth valiant custom,3264
+153,chevrolet nova,3459
+154,mercury monarch,3432
+155,ford maverick,3158
+156,pontiac catalina,4668
+157,chevrolet bel air,4440
+158,plymouth grand fury,4498
+159,ford ltd,4657
+160,buick century,3907
+161,chevroelt chevelle malibu,3897
+162,amc matador,3730
+163,plymouth fury,3785
+164,buick skyhawk,3039
+165,chevrolet monza 2+2,3221
+166,ford mustang ii,3169
+167,toyota corolla,2171
+168,ford pinto,2639
+169,amc gremlin,2914
+170,pontiac astro,2592
+171,toyota corona,2702
+172,volkswagen dasher,2223
+173,datsun 710,2545
+174,ford pinto,2984
+175,volkswagen rabbit,1937
+176,amc pacer,3211
+177,audi 100ls,2694
+178,peugeot 504,2957
+179,volvo 244dl,2945
+180,saab 99le,2671
+181,honda civic cvcc,1795
+182,fiat 131,2464
+183,opel 1900,2220
+184,capri ii,2572
+185,dodge colt,2255
+186,renault 12tl,2202
+187,chevrolet chevelle malibu classic,4215
+188,dodge coronet brougham,4190
+189,amc matador,3962
+190,ford gran torino,4215
+191,plymouth valiant,3233
+192,chevrolet nova,3353
+193,ford maverick,3012
+194,amc hornet,3085
+195,chevrolet chevette,2035
+196,chevrolet woody,2164
+197,vw rabbit,1937
+198,honda civic,1795
+199,dodge aspen se,3651
+200,ford granada ghia,3574
+201,pontiac ventura sj,3645
+202,amc pacer d/l,3193
+203,volkswagen rabbit,1825
+204,datsun b-210,1990
+205,toyota corolla,2155
+206,ford pinto,2565
+207,volvo 245,3150
+208,plymouth volare premier v8,3940
+209,peugeot 504,3270
+210,toyota mark ii,2930
+211,mercedes-benz 280s,3820
+212,cadillac seville,4380
+213,chevy c10,4055
+214,ford f108,3870
+215,dodge d100,3755
+216,honda accord cvcc,2045
+217,buick opel isuzu deluxe,2155
+218,renault 5 gtl,1825
+219,plymouth arrow gs,2300
+220,datsun f-10 hatchback,1945
+221,chevrolet caprice classic,3880
+222,oldsmobile cutlass supreme,4060
+223,dodge monaco brougham,4140
+224,mercury cougar brougham,4295
+225,chevrolet concours,3520
+226,buick skylark,3425
+227,plymouth volare custom,3630
+228,ford granada,3525
+229,pontiac grand prix lj,4220
+230,chevrolet monte carlo landau,4165
+231,chrysler cordoba,4325
+232,ford thunderbird,4335
+233,volkswagen rabbit custom,1940
+234,pontiac sunbird coupe,2740
+235,toyota corolla liftback,2265
+236,ford mustang ii 2+2,2755
+237,chevrolet chevette,2051
+238,dodge colt m/m,2075
+239,subaru dl,1985
+240,volkswagen dasher,2190
+241,datsun 810,2815
+242,bmw 320i,2600
+243,mazda rx-4,2720
+244,volkswagen rabbit custom diesel,1985
+245,ford fiesta,1800
+246,mazda glc deluxe,1985
+247,datsun b210 gx,2070
+248,honda civic cvcc,1800
+249,oldsmobile cutlass salon brougham,3365
+250,dodge diplomat,3735
+251,mercury monarch ghia,3570
+252,pontiac phoenix lj,3535
+253,chevrolet malibu,3155
+254,ford fairmont (auto),2965
+255,ford fairmont (man),2720
+256,plymouth volare,3430
+257,amc concord,3210
+258,buick century special,3380
+259,mercury zephyr,3070
+260,dodge aspen,3620
+261,amc concord d/l,3410
+262,chevrolet monte carlo landau,3425
+263,buick regal sport coupe (turbo),3445
+264,ford futura,3205
+265,dodge magnum xe,4080
+266,chevrolet chevette,2155
+267,toyota corona,2560
+268,datsun 510,2300
+269,dodge omni,2230
+270,toyota celica gt liftback,2515
+271,plymouth sapporo,2745
+272,oldsmobile starfire sx,2855
+273,datsun 200-sx,2405
+274,audi 5000,2830
+275,volvo 264gl,3140
+276,saab 99gle,2795
+277,peugeot 604sl,3410
+278,volkswagen scirocco,1990
+279,honda accord lx,2135
+280,pontiac lemans v6,3245
+281,mercury zephyr 6,2990
+282,ford fairmont 4,2890
+283,amc concord dl 6,3265
+284,dodge aspen 6,3360
+285,chevrolet caprice classic,3840
+286,ford ltd landau,3725
+287,mercury grand marquis,3955
+288,dodge st. regis,3830
+289,buick estate wagon (sw),4360
+290,ford country squire (sw),4054
+291,chevrolet malibu classic (sw),3605
+292,chrysler lebaron town @ country (sw),3940
+293,vw rabbit custom,1925
+294,maxda glc deluxe,1975
+295,dodge colt hatchback custom,1915
+296,amc spirit dl,2670
+297,mercedes benz 300d,3530
+298,cadillac eldorado,3900
+299,peugeot 504,3190
+300,oldsmobile cutlass salon brougham,3420
+301,plymouth horizon,2200
+302,plymouth horizon tc3,2150
+303,datsun 210,2020
+304,fiat strada custom,2130
+305,buick skylark limited,2670
+306,chevrolet citation,2595
+307,oldsmobile omega brougham,2700
+308,pontiac phoenix,2556
+309,vw rabbit,2144
+310,toyota corolla tercel,1968
+311,chevrolet chevette,2120
+312,datsun 310,2019
+313,chevrolet citation,2678
+314,ford fairmont,2870
+315,amc concord,3003
+316,dodge aspen,3381
+317,audi 4000,2188
+318,toyota corona liftback,2711
+319,mazda 626,2542
+320,datsun 510 hatchback,2434
+321,toyota corolla,2265
+322,mazda glc,2110
+323,dodge colt,2800
+324,datsun 210,2110
+325,vw rabbit c (diesel),2085
+326,vw dasher (diesel),2335
+327,audi 5000s (diesel),2950
+328,mercedes-benz 240d,3250
+329,honda civic 1500 gl,1850
+330,renault lecar deluxe,1835
+331,subaru dl,2145
+332,vokswagen rabbit,1845
+333,datsun 280-zx,2910
+334,mazda rx-7 gs,2420
+335,triumph tr7 coupe,2500
+336,ford mustang cobra,2905
+337,honda accord,2290
+338,plymouth reliant,2490
+339,buick skylark,2635
+340,dodge aries wagon (sw),2620
+341,chevrolet citation,2725
+342,plymouth reliant,2385
+343,toyota starlet,1755
+344,plymouth champ,1875
+345,honda civic 1300,1760
+346,subaru,2065
+347,datsun 210 mpg,1975
+348,toyota tercel,2050
+349,mazda glc 4,1985
+350,plymouth horizon 4,2215
+351,ford escort 4w,2045
+352,ford escort 2h,2380
+353,volkswagen jetta,2190
+354,renault 18i,2320
+355,honda prelude,2210
+356,toyota corolla,2350
+357,datsun 200sx,2615
+358,mazda 626,2635
+359,peugeot 505s turbo diesel,3230
+360,volvo diesel,3160
+361,toyota cressida,2900
+362,datsun 810 maxima,2930
+363,buick century,3415
+364,oldsmobile cutlass ls,3725
+365,ford granada gl,3060
+366,chrysler lebaron salon,3465
+367,chevrolet cavalier,2605
+368,chevrolet cavalier wagon,2640
+369,chevrolet cavalier 2-door,2395
+370,pontiac j2000 se hatchback,2575
+371,dodge aries se,2525
+372,pontiac phoenix,2735
+373,ford fairmont futura,2865
+374,amc concord dl,3035
+375,volkswagen rabbit l,1980
+376,mazda glc custom l,2025
+377,mazda glc custom,1970
+378,plymouth horizon miser,2125
+379,mercury lynx l,2125
+380,nissan stanza xe,2160
+381,honda accord,2205
+382,toyota corolla,2245
+383,honda civic,1965
+384,honda civic (auto),1965
+385,datsun 310 gx,1995
+386,buick century limited,2945
+387,oldsmobile cutlass ciera (diesel),3015
+388,chrysler lebaron medallion,2585
+389,ford granada l,2835
+390,toyota celica gt,2665
+391,dodge charger 2.2,2370
+392,chevrolet camaro,2950
+393,ford mustang gl,2790
+394,vw pickup,2130
+395,dodge rampage,2295
+396,ford ranger,2625
+397,chevy s-10,2720
