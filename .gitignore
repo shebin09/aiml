@@ -1,3 +1,10 @@
 scikit-learn/creditcard.csv
 scikit-learn/archive.zip
-
+.venv
+pandas2/bios.csv
+pandas2/olympics-data.xlsx
+pandas2/noc_regions.csv
+pandas2/results.parquet
+assessment/assessment.ipynb
+dimensionality-reduction/mnist_train1.csv
+dimensionality reduction/mnist_train1.csv
